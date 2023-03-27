@@ -46,7 +46,7 @@ class _MyHomePageState extends State<MyHomePage> {
             ],
           ),
           centerTitle: true,
-          title: Text('Cklass'),
+          title: Text('pc componentes'),
         ),
         body: TabBarView(
           children: [
